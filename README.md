@@ -7,4 +7,4 @@
  ## 🖥️ Tecnologia:
  - *HTML*
  - *CSS*
- - *Agora só está faltando o JavaScript!😉*
+ - *JavaScript pronto!🥵*
