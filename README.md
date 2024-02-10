@@ -5,4 +5,6 @@
  - 😎Passei por aqui!
  
  ## 🖥️ Tecnologia:
- - Está página já tem um html, falta css e javascript.
+ - *HTML*
+ - *CSS*
+ - *Agora só está faltando o JavaScript!😉*
