@@ -1,13 +1,4 @@
-# Olá, Mundo!
+# Aprendendo o temido Git!
 ## 📝Sobre:
- - *Primeiro repositótio do curso de git/github.*
- - *Aprendendo como funciona o versionamento de código com git e github.*
- - 😎Passei por aqui!
- - Revisando e desenvolvendo minhas habilidades em GIT!🤓
- 
- ## 🖥️ Tecnologia:
- - *HTML*
- - *CSS*
- - *JavaScript pronto!🥵*
- - *Atualização do Javascript*
- - Testando 😱🫨🩻
+Esse reporitório tem por objetivo compartilhar todo o meu aprendizado referente a git que as vezes é uma dor de cabeça. Nele o que for aprendendo venho aqui descomplicando.
+
