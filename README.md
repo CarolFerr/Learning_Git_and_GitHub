@@ -6,4 +6,4 @@ Adicionando essa linha pela IDE intellijIDEA, para testar produtividade e rapide
 Treinamento git/github para desenvolvimento profissional de modo a torna-lo mais eficiente.
 😀😀
 Adicionando nova linha descritiva.
-New Line
+
