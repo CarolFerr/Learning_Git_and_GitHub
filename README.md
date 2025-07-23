@@ -5,3 +5,4 @@ Esse reporitório tem por objetivo compartilhar todo o meu aprendizado referente
 Adicionando essa linha pela IDE intellijIDEA, para testar produtividade e rapidez
 Treinamento git/github para desenvolvimento profissional de modo a torna-lo mais eficiente.
 😀😀
+Adicionando nova linha descritiva.
