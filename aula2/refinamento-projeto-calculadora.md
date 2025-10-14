@@ -26,3 +26,4 @@ A calculadora devera conter as seguintes funcionalidades:
 - Logaritmo
 - Fatorial
 - Conversão de bases numéricas (decimal, binário, octal e hexadecimal)
+- qwetd
