@@ -27,3 +27,5 @@ A calculadora devera conter as seguintes funcionalidades:
 - Fatorial
 - Conversão de bases numéricas (decimal, binário, octal e hexadecimal)
 - qwetd
+- hhhlhl
+- 
